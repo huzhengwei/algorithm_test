@@ -1,1 +1,0 @@
-/home/zhengwei/project_space/C++/algorithm_test/Reverse String 2/build/CMakeFiles/reverse_string.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++   -g    CMakeFiles/add_binary.dir/add_binary.o  -o add_binary -rdynamic 

@@ -1,1 +1,0 @@
-/usr/bin/c++   -g    CMakeFiles/number_of_seg.dir/number_of_seg.o  -o number_of_seg -rdynamic 

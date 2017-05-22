@@ -1,1 +1,0 @@
-/usr/bin/c++   -g    CMakeFiles/ransom_note.dir/ransom_note.o  -o ransom_note -rdynamic 

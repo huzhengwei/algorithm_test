@@ -1,1 +1,0 @@
-/usr/bin/c++   -g    CMakeFiles/valid_parentheses.dir/valid_parentheses.o  -o valid_parentheses -rdynamic 
