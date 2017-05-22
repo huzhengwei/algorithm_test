@@ -1,0 +1,1 @@
+/home/zhengwei/project_space/C++/algorithm_test/ransom note/build/CMakeFiles/ransom_note.dir

@@ -1,0 +1,1 @@
+/home/zhengwei/project_space/C++/algorithm_test/Detect captial/build/CMakeFiles/detect_capital.dir

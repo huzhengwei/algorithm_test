@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/count_and_say.dir/count_and_say.o  -o count_and_say -rdynamic 

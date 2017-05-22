@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/detect_capital.dir/Detect_capital.o  -o detect_capital -rdynamic 

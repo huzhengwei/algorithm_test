@@ -1,0 +1,1 @@
+/home/zhengwei/project_space/C++/algorithm_test/Count_and_say/build/CMakeFiles/count_and_say.dir
